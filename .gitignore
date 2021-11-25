@@ -30,6 +30,7 @@ cmake-build-debug/
 **/gtest
 **/test_results
 **/xmake
+**/__pycache__
 
 # Temporary files
 *.pyc
